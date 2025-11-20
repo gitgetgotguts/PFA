@@ -5,7 +5,7 @@
 ## Step 0: Toolchain & Hardware Verification
 *Start here to ensure your development environment is working.*
 - [x] **Set up ESP-IDF:** Install tools and verify `idf.py` runs.
-- [ ] **Test "Hello World":** Flash the basic example to your ESP32 to confirm the board is alive and communicating.
+- [x] **Test "Hello World":** Flash the basic example to your ESP32 to confirm the board is alive and communicating.
 
 ## Phase 1: AI Model & Voice Recognition 
 *First, we prove the "Ear" works using simulation, then real hardware.*
