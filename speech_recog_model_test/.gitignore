@@ -1,0 +1,8 @@
+build/
+sdkconfig.old
+sdkconfig.bak
+dependencies.lock
+__pycache__/
+*.pyc
+*.log
+*.swp
