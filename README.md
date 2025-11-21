@@ -10,8 +10,8 @@
 ## Phase 1: AI Model & Voice Recognition 
 *First, we prove the "Ear" works using simulation, then real hardware.*
 
-- [ ] **Test Baseline Example:** Compile the standard `micro_speech` (Yes/No) example to ensure libraries build correctly.
-- [ ] **Verify with "Mock" Data (Yes/No):** Modify the code to inject a pre-recorded "Yes" array instead of using a microphone. Confirm the ESP32 detects it.
+- [x] **Test Baseline Example:** Compile the standard `micro_speech` (Yes/No) example to ensure libraries build correctly.
+- [x] **Verify with "Mock" Data (Yes/No):** Modify the code to inject a pre-recorded "Yes" array instead of using a microphone. Confirm the ESP32 detects it.
 
  ### Step 2: The "Numbers" Upgrade 
 *Goal: Replace the "Yes/No" model with your custom "0-9" model, still using mock data.*
