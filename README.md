@@ -16,7 +16,7 @@
  ### Step 2: The "Numbers" Upgrade 
 *Goal: Replace the "Yes/No" model with your custom "0-9" model, still using mock data.*
 
-- [ ] **Dataset:** Get audio files for "One", "Two", "Three"... "Nine".
+- [x] **Dataset:** Get audio files for "One", "Two", "Three"... "Nine".
 - [ ] **Train Model:** Run a Python script (Colab) to train a generic 2D CNN on this data.
 - [ ] **Quantize & Convert:** Convert the trained model to a `int8` `.tflite` file, then to a C array (`model_data.h`).
 - [ ] **Swap Model:** Replace the original `model_data.h` in the ESP project with your new one.
