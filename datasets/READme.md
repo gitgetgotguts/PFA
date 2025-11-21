@@ -1,4 +1,5 @@
 # Spoken Arabic Digits for Edge AI (with Noise)
+## use in kaggle : https://www.kaggle.com/datasets/saidddd65215/0to10-number-in-arabic-for-edge-ai/
 
 ## 📌 Overview
 This dataset contains spoken **Arabic digits (0-9)** and **background noise samples** in `.wav` format. It is specifically curated for training lightweight speech recognition models intended for **edge devices** (like microcontrollers or mobile phones).
